@@ -72,7 +72,7 @@ main .filme-principal {
 }
 
 .filme-principal .titulo {
-    margin-top: 15%;
+    margin-top: 8%;
     font-size: 40px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
@@ -98,4 +98,8 @@ main .filme-principal {
 
 .filme-principal .botao i {
     margin-right: 7px;
+}
+
+.carrosel-filmes {
+    margin-top: 15px;
 }
